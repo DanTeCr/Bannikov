@@ -1,0 +1,7 @@
+E:\SNACK\bin\Debug\SNACK.exe.config
+E:\SNACK\bin\Debug\SNACK.exe
+E:\SNACK\bin\Debug\SNACK.pdb
+E:\SNACK\obj\Debug\SNACK.csprojAssemblyReference.cache
+E:\SNACK\obj\Debug\SNACK.csproj.CoreCompileInputs.cache
+E:\SNACK\obj\Debug\SNACK.exe
+E:\SNACK\obj\Debug\SNACK.pdb
